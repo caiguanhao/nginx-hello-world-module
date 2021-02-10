@@ -19,3 +19,5 @@ But it is unable to execute functions like http.Get or exec.Command:
 ```
 curl -s localhost:8080/date
 ```
+
+This code is written under macOS. To run in Linux, you may need to modify some variables.
